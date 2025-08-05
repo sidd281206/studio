@@ -20,7 +20,7 @@ const projectsData = [
     description: 'An online attendance platform for college, designed to streamline the attendance tracking process for both students and faculty. Features include real-time updates, and a user-friendly interface for managing classes and attendance records.',
     image: 'https://i.postimg.cc/xCwLMSLH/Screenshot-2025-08-05-225617.png',
     hint: 'college attendance',
-    tags: ['React', 'Firebase', 'Zustand', 'dnd-kit', 'JavaScript', 'Vercel'],
+    tags: ['Firebase', 'JavaScript', 'Vercel'],
     liveUrl: '#',
     githubUrl: '#',
   },
