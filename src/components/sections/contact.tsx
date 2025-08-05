@@ -1,5 +1,5 @@
 import { Button } from '@/components/ui/button';
-import { Github, Linkedin, Twitter } from 'lucide-react';
+import { Github, Linkedin, Instagram } from 'lucide-react';
 import Link from 'next/link';
 import MessageGenerator from '@/components/message-generator';
 
@@ -27,7 +27,7 @@ export default function Contact() {
                 <Link href="https://www.linkedin.com/in/siddharth-shinde-62b62724a/" target="_blank"><Linkedin className="h-5 w-5" /></Link>
               </Button>
               <Button asChild variant="outline" size="icon" className="rounded-full">
-                <Link href="#" target="_blank"><Twitter className="h-5 w-5" /></Link>
+                <Link href="https://www.instagram.com/siddharth__2812/" target="_blank"><Instagram className="h-5 w-5" /></Link>
               </Button>
             </div>
           </div>
