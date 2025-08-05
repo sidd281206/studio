@@ -16,15 +16,15 @@ export default function Contact() {
             <div className="space-y-2">
               <h3 className="font-semibold text-lg">Alex Doe</h3>
               <p className="text-muted-foreground">
-                Email: <a href="mailto:alex.doe@example.com" className="text-primary hover:underline">alex.doe@example.com</a>
+                Email: <a href="mailto:siddharthshinde281206@gmail.com" className="text-primary hover:underline">siddharthshinde281206@gmail.com</a>
               </p>
             </div>
             <div className="flex space-x-4">
               <Button asChild variant="outline" size="icon" className="rounded-full">
-                <Link href="#" target="_blank"><Github className="h-5 w-5" /></Link>
+                <Link href="https://github.com/sidd281206" target="_blank"><Github className="h-5 w-5" /></Link>
               </Button>
               <Button asChild variant="outline" size="icon" className="rounded-full">
-                <Link href="#" target="_blank"><Linkedin className="h-5 w-5" /></Link>
+                <Link href="https://www.linkedin.com/in/siddharth-shinde-62b62724a/" target="_blank"><Linkedin className="h-5 w-5" /></Link>
               </Button>
               <Button asChild variant="outline" size="icon" className="rounded-full">
                 <Link href="#" target="_blank"><Twitter className="h-5 w-5" /></Link>
