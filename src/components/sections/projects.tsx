@@ -8,10 +8,10 @@ import { Github, ExternalLink } from 'lucide-react';
 const projectsData = [
   {
     title: 'Trinova Trends - E-Commerce Platform',
-    description: 'A full-featured e-commerce site for my brand, Trinova Trends. It includes product listings, a shopping cart, and a secure checkout process, built with Next.js and Stripe.',
+    description: 'Trinova Trends is a cosmetics dropshipping brand committed to bringing high-quality, affordable beauty products directly to your doorstep. We focus on curating a wide range of skincare, makeup, and wellness essentials that blend global trends with everyday needs—making self-care simple, stylish, and accessible for all.',
     image: 'https://i.postimg.cc/XYR1jtzZ/Screenshot-2025-03-29-170254.png',
     hint: 'fashion e-commerce',
-    tags: ['Next.js', 'React', 'Stripe', 'Tailwind CSS'],
+    tags: ['Next.js', 'Stripe', 'Tailwind CSS', 'Shopify', 'Meta Ads'],
     liveUrl: '#',
     githubUrl: '#',
   },
