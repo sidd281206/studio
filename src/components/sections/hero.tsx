@@ -13,10 +13,10 @@ export default function Hero() {
                 Siddharth Shinde
               </h1>
               <p className="text-xl text-foreground/80 font-medium">
-                Full-Stack Developer & UI/UX Enthusiast
+                Future Founder | Tech & Design Enthusiast | Driven to Build Impact
               </p>
               <p className="max-w-[600px] text-muted-foreground md:text-xl">
-                I build beautiful, responsive, and user-friendly web applications. Passionate about clean code, modern design, and creating seamless digital experiences.
+                I'm an IT engineering student with an entrepreneurial mindset, passionate about building scalable digital products that solve real problems. With growing skills in full-stack development and UI/UX design, I’m on a mission to combine technology, creativity, and purpose to create user-first solutions. I aspire to build my own company someday—focused on innovation, simplicity, and positive impact.
               </p>
             </div>
             <div className="flex flex-col gap-2 min-[400px]:flex-row">
