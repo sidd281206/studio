@@ -78,20 +78,6 @@ export default function Projects() {
                   ))}
                 </div>
               </CardContent>
-              <CardFooter className="p-6 bg-muted/50">
-                <div className="flex w-full justify-end gap-4">
-                  <Button asChild variant="ghost" size="sm">
-                    <Link href={project.liveUrl} target="_blank" rel="noopener noreferrer">
-                      <ExternalLink className="mr-2" /> Live Demo
-                    </Link>
-                  </Button>
-                  <Button asChild variant="ghost" size="sm">
-                    <Link href={project.githubUrl} target="_blank" rel="noopener noreferrer">
-                      <Github className="mr-2" /> Source Code
-                    </Link>
-                  </Button>
-                </div>
-              </CardFooter>
             </Card>
           ))}
         </div>
