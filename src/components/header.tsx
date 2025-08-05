@@ -21,7 +21,7 @@ export default function Header() {
       <div className="container flex h-14 items-center">
         <Link href="#home" className="mr-6 flex items-center space-x-2">
           <Code className="h-6 w-6 text-primary" />
-          <span className="font-bold font-headline">Skill Showcase</span>
+          <span className="font-bold font-headline">Built by Sid</span>
         </Link>
         <nav className="hidden flex-1 items-center space-x-6 text-sm font-medium md:flex">
           {navLinks.map((link) => (
@@ -47,7 +47,7 @@ export default function Header() {
                 <div className="flex items-center justify-between border-b pb-4 px-6">
                   <Link href="/" className="flex items-center space-x-2">
                     <Code className="h-6 w-6 text-primary" />
-                    <span className="font-bold font-headline">Skill Showcase</span>
+                    <span className="font-bold font-headline">Built by Sid</span>
                   </Link>
                   <Button variant="ghost" size="icon" onClick={() => setIsMobileMenuOpen(false)}>
                     <X className="h-5 w-5" />
