@@ -11,7 +11,7 @@ const projectsData = [
     description: 'Trinova Trends is a cosmetics dropshipping brand committed to bringing high-quality, affordable beauty products directly to your doorstep. We focus on curating a wide range of skincare, makeup, and wellness essentials that blend global trends with everyday needs—making self-care simple, stylish, and accessible for all.',
     image: 'https://i.postimg.cc/XYR1jtzZ/Screenshot-2025-03-29-170254.png',
     hint: 'fashion e-commerce',
-    tags: ['Next.js', 'Stripe', 'Tailwind CSS', 'Shopify', 'Meta Ads'],
+    tags: ['Tailwind CSS', 'Shopify', 'Meta Ads'],
     liveUrl: '#',
     githubUrl: '#',
   },
