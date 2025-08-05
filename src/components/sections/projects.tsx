@@ -24,24 +24,6 @@ const projectsData = [
     liveUrl: '#',
     githubUrl: '#',
   },
-  {
-    title: 'Portfolio Website',
-    description: 'My personal portfolio website (the one you are currently on!) to showcase my skills and projects, built with Next.js and Genkit.',
-    image: 'https://placehold.co/600x400.png',
-    hint: 'developer portfolio',
-    tags: ['Next.js', 'Genkit', 'Shadcn UI', 'Framer Motion'],
-    liveUrl: '#',
-    githubUrl: '#',
-  },
-  {
-    title: 'Data Visualization Dashboard',
-    description: 'An interactive dashboard for visualizing complex datasets, using D3.js and React to create dynamic charts and graphs.',
-    image: 'https://placehold.co/600x400.png',
-    hint: 'analytics dashboard',
-    tags: ['React', 'D3.js', 'Node.js', 'Express'],
-    liveUrl: '#',
-    githubUrl: '#',
-  },
 ];
 
 export default function Projects() {
