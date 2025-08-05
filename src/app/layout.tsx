@@ -4,7 +4,7 @@ import './globals.css';
 
 export const metadata: Metadata = {
   title: 'Skill Showcase',
-  description: "A portfolio for Alex Doe, a passionate developer.",
+  description: "A portfolio for Siddharth Shinde, a passionate developer.",
 };
 
 export default function RootLayout({

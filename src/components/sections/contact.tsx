@@ -14,7 +14,7 @@ export default function Contact() {
               Have a project in mind, a job opportunity, or just want to say hi? I'd love to hear from you. Reach out via email, social media, or use the handy message generator to craft the perfect opening line.
             </p>
             <div className="space-y-2">
-              <h3 className="font-semibold text-lg">Alex Doe</h3>
+              <h3 className="font-semibold text-lg">Siddharth Shinde</h3>
               <p className="text-muted-foreground">
                 Email: <a href="mailto:siddharthshinde281206@gmail.com" className="text-primary hover:underline">siddharthshinde281206@gmail.com</a>
               </p>

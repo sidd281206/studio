@@ -47,7 +47,7 @@ export default function MessageGenerator() {
     try {
       const input: GeneratePersonalizedMessageInput = {
         ...values,
-        siteOwnerName: 'Alex Doe',
+        siteOwnerName: 'Siddharth Shinde',
       };
       const result = await generatePersonalizedMessage(input);
       setGeneratedMessage(result.personalizedMessage);

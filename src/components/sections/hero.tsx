@@ -10,7 +10,7 @@ export default function Hero() {
           <div className="flex flex-col justify-center space-y-4">
             <div className="space-y-2">
               <h1 className="text-4xl font-bold font-headline tracking-tighter sm:text-5xl xl:text-6xl/none text-primary">
-                Alex Doe
+                Siddharth Shinde
               </h1>
               <p className="text-xl text-foreground/80 font-medium">
                 Full-Stack Developer & UI/UX Enthusiast
@@ -30,8 +30,8 @@ export default function Hero() {
           </div>
           <div className="flex items-center justify-center">
              <Avatar className="w-48 h-48 md:w-64 md:h-64 lg:w-80 lg:h-80 border-4 border-primary/20 shadow-lg">
-                <AvatarImage src="https://placehold.co/400x400.png" alt="Alex Doe" data-ai-hint="professional portrait" />
-                <AvatarFallback>AD</AvatarFallback>
+                <AvatarImage src="https://placehold.co/400x400.png" alt="Siddharth Shinde" data-ai-hint="professional portrait" />
+                <AvatarFallback>SS</AvatarFallback>
             </Avatar>
           </div>
         </div>
