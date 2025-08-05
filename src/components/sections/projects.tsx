@@ -7,10 +7,10 @@ import { Github, ExternalLink } from 'lucide-react';
 
 const projectsData = [
   {
-    title: 'E-Commerce Platform',
-    description: 'A full-featured e-commerce site with product listings, a shopping cart, and a secure checkout process, built with Next.js and Stripe.',
-    image: 'https://placehold.co/600x400.png',
-    hint: 'online store',
+    title: 'Trinova Trends - E-Commerce Platform',
+    description: 'A full-featured e-commerce site for my brand, Trinova Trends. It includes product listings, a shopping cart, and a secure checkout process, built with Next.js and Stripe.',
+    image: 'https://i.postimg.cc/XYR1jtzZ/Screenshot-2025-03-29-170254.png',
+    hint: 'fashion e-commerce',
     tags: ['Next.js', 'React', 'Stripe', 'Tailwind CSS'],
     liveUrl: '#',
     githubUrl: '#',
