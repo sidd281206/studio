@@ -39,7 +39,7 @@ const skillsData = [
     icon: PenTool,
     skills: [
       { name: 'Git & GitHub', proficiency: 95 },
-      { name: 'Docker', proficiency: 70 },
+      { name: 'Canva', proficiency: 70 },
       { name: 'Figma', proficiency: 85 },
       { name: 'Vercel', proficiency: 95 },
     ],
