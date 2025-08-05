@@ -3,38 +3,38 @@ import { User, Rocket, Target, Heart, ThumbsUp, ThumbsDown } from 'lucide-react'
 
 const introData = {
   whoAmI: {
-    title: "Who I Am",
+    title: "Who I am?",
     icon: User,
-    content: "I am Siddharth, an engineering student currently pursuing a BTech in Information Technology. Apart from this, I love to travel and explore new places and experiences. I also enjoy spending time with my family and friends. Additionally, I love spending time with myself by listening to music, podcasts, and reading books."
+    content: "I’m Siddharth, an enthusiastic engineering student currently pursuing a BTech in Information Technology. I have a deep passion for travel and love discovering new places, cultures, and experiences. I cherish quality time with my family and friends, and I also value solitude—often recharging by listening to music, podcasts, and reading insightful books that help me grow."
   },
   lifeGoals: {
-    title: "What I Want to Do in Life",
+    title: "What do I want to do in life?",
     icon: Rocket,
-    content: "I want to achieve financial stability and take my parents on a vacation every 4–5 months. I want to be physically fit and become the best version of myself. I aspire to be successful enough to donate a portion of my income to those in need. I want to travel around the world."
+    content: "I strive for financial stability and want to give back to my family by taking them on memorable vacations every few months. I aim to maintain physical fitness and continuously grow into the best version of myself. Success, for me, means being in a position to support those in need through regular donations. I also dream of traveling the world and soaking in diverse cultures and experiences."
   },
   ambitions: {
-    title: "Who I Want to Be",
+    title: "Who do I want to be?",
     icon: Target,
-    content: "I want to be a businessman and start my own company."
+    content: "I aspire to become a successful businessman and build a company of my own that makes a meaningful impact."
   },
   strengths: {
-    title: "My Strengths",
+    title: "My Strengths (Positively Framed):",
     icon: ThumbsUp,
     points: [
-      "Fast learner",
-      "Swimming",
-      "Family-Oriented & Kind",
-      "Disciplined & Hardworking",
-      "Goal-Oriented"
+      "Quick Learner: I adapt and absorb new knowledge and skills rapidly.",
+      "Strong Swimmer: A symbol of my discipline, resilience, and physical fitness.",
+      "Family-Oriented and Compassionate: I value relationships and always strive to support and uplift those around me.",
+      "Disciplined and Hardworking: I stay committed and consistent in whatever I pursue.",
+      "Goal-Oriented: I maintain a clear vision and work diligently towards achieving my objectives."
     ]
   },
   weaknesses: {
-    title: "My Weaknesses",
+    title: "Areas I’m Working On (formerly 'Weaknesses'):",
     icon: ThumbsDown,
     points: [
-      "Overthinking",
-      "Soft Skills",
-      "Lack of Interest in Engineering"
+      "Deep Thinker (formerly Overthinking): I’m learning to channel my thoughts constructively and take action with clarity.",
+      "Enhancing Communication Skills (formerly Soft Skills): I’m actively improving my interpersonal and professional communication to build stronger connections.",
+      "Exploring My True Interests: While engineering may not fully resonate with me, I’m using this time to explore and align with my real passions, especially entrepreneurship."
     ]
   }
 };
