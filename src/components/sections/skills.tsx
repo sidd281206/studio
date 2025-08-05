@@ -9,6 +9,7 @@ const skillsData = [
     skills: [
       { name: 'React & Next.js', proficiency: 95 },
       { name: 'TypeScript', proficiency: 90 },
+      { name: 'JavaScript (ES6+)', proficiency: 95 },
       { name: 'Tailwind CSS', proficiency: 98 },
       { name: 'HTML5 & CSS3', proficiency: 92 },
     ],
@@ -20,7 +21,7 @@ const skillsData = [
       { name: 'Node.js & Express', proficiency: 85 },
       { name: 'Python & Django', proficiency: 75 },
       { name: 'REST & GraphQL APIs', proficiency: 88 },
-      { name: 'Firebase', proficiency: 90 },
+      { name: 'Firebase', proficiency: 92 },
     ],
   },
   {
